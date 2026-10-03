@@ -211,3 +211,49 @@ header img {
 .sec4 .p2 {
     padding: 0px 0px 10px 0px;
 }
+
+.sec5 {
+    display: flex;
+    margin: 60px 0px 70px 0px;
+    align-items: center;
+    padding: 0px 0px 40px 0px;
+    background-color: #F5F7FA;
+}
+
+.sec5 h2 {
+    color: #14171F;
+    font-weight: 600;
+    font-size: 36px;
+    padding: 0px 0px 0px 40px;
+}
+
+.sec5 p {
+    color: #677083;
+    padding: 10px 0px 50px 40px;
+}
+
+.sec5 ul {
+    list-style: none;
+    line-height: 30px;
+}
+
+.para {
+    margin: 40px 40px 40px 60px;
+    width: 60%;
+}
+
+.list {
+    display: flex;
+    gap: 4rem;
+}
+
+.sec5 img {
+    margin: 0px 5px 0px 70px;
+    border-radius: 8px;
+}
+
+.sec5 .list img {
+    background-color: #AFEBDB;
+    padding: 5px;
+    border-radius: 30px;
+}
